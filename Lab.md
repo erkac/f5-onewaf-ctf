@@ -20,7 +20,7 @@
 
 ### Steps
 
-1. [Build F5 XC WAAP tenant](#F5 XC WAAP Tenant) in order to be able to participate in this part of the challange.
+1. [Build F5 XC WAAP tenant](#F5-XC-WAAP-Tenant) in order to be able to participate in this part of the challange.
 2. Get familiar with the protected app -> [Juice Shop](https://owasp.org/www-project-juice-shop/)
 3. Plan your **WAAP** strategy
 4. [Test](#test-the-app) that the apps are accessible
