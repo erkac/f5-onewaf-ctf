@@ -1,0 +1,12 @@
+version: '3.7'
+services:
+  juiceshop-big:
+    image: bkimminich/juice-shop:latest
+    restart: always
+    ports:
+      - 8080:3000
+  juiceshop-xc:
+    image: bkimminich/juice-shop:latest
+    restart: always
+    ports:
+      - 8181:3000
