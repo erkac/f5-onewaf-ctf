@@ -1,6 +1,6 @@
 # F5 OneWAF CTF
 
-A CTF workshop based on OWASP Juice Shop app. The goal is to mitigate most of the Juice Shop vulnerabilities using F5 AWAF and F5 Distributed Cloud WAAP. F5ers can use *UDF lab* called: **OneWAF - CTF**
+A CTF workshop based on OWASP Juice Shop app. The goal is to mitigate most of the Juice Shop vulnerabilities using F5 AWAF and F5 Distributed Cloud WAAP. *F5ers* can use *UDF lab* called: **OneWAF - CTF**
 
 The winning team is the one with most of the mitigated vulnerabilities in the shortest time. The result is calculated as `time form the beginning in mins` - `each mitigated vulnerability` * `2`.
 
